@@ -28,6 +28,14 @@ This project presents a Power BI dashboard that analyzes the Loan dataset from t
 
 Dashboards contain visuals that illustrate loan amounts by purpose and age group, average income by employment type, default rates by employment type and year, Year-over-Year (YoY) percentage changes in Loan Amounts, and more.
 
+![Customers](dashboard_images/Applicant_Demographics_&_Financial_Profile.jpg "A screenshot showing the Applicant_Demographics_&_Financial_Profile.") 
+
+![Customers](dashboard_images/Financial_Profile.jpg "A screenshot showing the Financial_Profile.") 
+
+![Customers](dashboard_images/Financial_Risk_Metrics.jpg "A screenshot showing the Financial_Risk_Metrics.") 
+
+![Customers](dashboard_images/Loan_Default_&_Overview.jpg "A screenshot showing the Loan_Default_&_Overview.") 
+
 ---
 
 
